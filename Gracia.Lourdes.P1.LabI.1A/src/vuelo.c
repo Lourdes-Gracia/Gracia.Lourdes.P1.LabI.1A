@@ -114,7 +114,7 @@ eFecha fecha;
         }
         if(flag == 0)
         {
-            printf("       No hay almuerzos en el sistema");
+            printf("       No hay vuelos en el sistema");
         }
         printf("\n\n");
 
